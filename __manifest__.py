@@ -5,12 +5,14 @@
     'category': 'Discuss',
     'summary': 'Forward Discuss and chatter messages to other channels or people',
     'description': """
-        Adds a Forward action to messages in Discuss channels, direct messages,
-        and record chatter. Forwarding reposts the message - with its
-        attachments - into one or more other channels and/or as a direct
-        message to one or more people, with an optional comment.
-    """,
-    'author': 'Discuss Message Forward',
+Adds a Forward action to messages in Discuss channels, direct messages,
+and record chatter. Forwarding reposts the message - with its
+attachments - into one or more other channels and/or as a direct
+message to one or more people, with an optional comment.
+""",
+    'author': 'gamalmouhssine',
+    'website': 'https://github.com/gamalmouhssine/discuss-message-forward',
+    'support': 'mouhssinegamal2@gmail.com',
     'depends': ['mail'],
     'data': [
         'security/ir.model.access.csv',
