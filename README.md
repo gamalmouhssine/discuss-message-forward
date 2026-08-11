@@ -54,4 +54,4 @@ discuss_message_forward/
 
 ## License
 
-LGPL-3
+OPL-1 (Odoo Proprietary License v1.0)
