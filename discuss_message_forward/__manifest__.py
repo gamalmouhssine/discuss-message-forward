@@ -26,5 +26,7 @@ message to one or more people, with an optional comment.
     'installable': True,
     'application': False,
     'auto_install': False,
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
+    'price': 2.0,
+    'currency': 'EUR',
 }
