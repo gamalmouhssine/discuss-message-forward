@@ -14,6 +14,7 @@ message to one or more people, with an optional comment.
     'website': 'https://github.com/gamalmouhssine/discuss-message-forward',
     'support': 'mouhssinegamal2@gmail.com',
     'depends': ['mail'],
+    'images': ['images/main_screenshot.png'],
     'data': [
         'security/ir.model.access.csv',
         'wizards/mail_message_forward_wizard_views.xml',
